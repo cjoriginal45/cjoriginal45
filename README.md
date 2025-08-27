@@ -16,7 +16,7 @@
 
 💻 Me apasiona el mundo del desarrollo de software, en busca de aprender cada dia un poco más.
 
-📝 roles : desarrollador Backend con Java SpringBoot, Frontend con Angular y BD con SQL.
+📝 Roles : desarrollador Backend con Java SpringBoot, Frontend con Angular y BD con SQL.
 
 📫 Contacto: **joaquinribarola45@gmail.com**
 <!--Intro end-->
