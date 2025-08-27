@@ -113,7 +113,7 @@
    <td align="center" style="padding: 10px; vertical-align: top;">
       <div>
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
-          <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200"/>
+          <img src="images/DeliciasGourmet-new.png" alt="Delicias Gourmet" width="200"/>
         </a>
         <br/>
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
