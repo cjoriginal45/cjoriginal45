@@ -91,23 +91,34 @@
 
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+  <h2>Algunos proyectos 👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-      <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="blank"><img align="center" src="images/SGTPI.png" alt="SGTPI" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-      <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="blank"><img align="center" src="images/DeliciasGourmet.png" alt="Delicias Gourmet" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
+  <div align="center">
+
+    <!-- Proyecto 1 -->
+    <div style="display:inline-block; text-align:center; margin: 20px;">
+      <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
+        <img src="images/SGTPI.png" alt="SGTPI" width="200"/>
+      </a>
+      <br/>
+      <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </div>
+
+    <!-- Proyecto 2 -->
+    <div style="display:inline-block; text-align:center; margin: 20px;">
+      <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
+        <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200"/>
+      </a>
+      <br/>
+      <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </div>
+
+  </div>
+</div>
 
 
 
