@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋  soy Joaquin Ribarola </h1> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/joaquin-ribarola-765577347" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href = "joaquinribarola45@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
+<a href="https://www.linkedin.com/in/joaquin-ribarola-765577347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://joaquinribarola.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
  </a>
