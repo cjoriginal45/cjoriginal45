@@ -91,7 +91,7 @@
 
 <!-------------------------->
 <div id="proyectos">
- <h2 align="center">Algunos proyectos 👨🏻‍💻</h2>
+ <h2 align="center">proyectos</h2>
 
 <table align="center">
   <tr>
