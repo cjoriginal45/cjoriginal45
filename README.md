@@ -91,32 +91,39 @@
 
 <!-------------------------->
 <div id="proyectos">
-  <h2>Algunos proyectos 👨🏻‍💻</h2>
+ <h2 align="center">Algunos proyectos 👨🏻‍💻</h2>
+
+<table align="center">
+  <tr>
 
   <!-- Proyecto 1 -->
-<td align="center" valign="top" style="padding: 10px;">
+<td align="center" style="padding: 10px; vertical-align: top;">
+      <div>
         <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
-          <img src="images/SGTPI.png" alt="SGTPI" width="200" height="150"/>
+          <img src="images/SGTPI.png" alt="SGTPI" width="200"/>
         </a>
         <br/>
         <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" height="28"/>
+          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
-      </td>
+      </div>
+    </td>
 
 <!-- Proyecto 2 -->
-   <td align="center" valign="top" style="padding: 10px;">
+   <td align="center" style="padding: 10px; vertical-align: top;">
+      <div>
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
-          <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200" height="150"/>
+          <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200"/>
         </a>
         <br/>
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" height="28"/>
+          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
-      </td>
+      </div>
+    </td>
 
- </tr>
-  </table>
+  </tr>
+</table>
 </div>
 
 
