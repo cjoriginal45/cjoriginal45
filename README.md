@@ -96,7 +96,7 @@
   <div align="center">
 
   <!-- Proyecto 1 -->
-<div style="display:inline-block; text-align:center; margin: 20px;">
+<div style="display:inline-block; text-align:left; margin: 20px;">
   <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
     <img src="images/SGTPI.png" alt="SGTPI" width="200"/>
   </a>
@@ -107,7 +107,7 @@
 </div>
 
 <!-- Proyecto 2 -->
-<div style="display:inline-block; text-align:center; margin: 20px;">
+<div style="display:inline-block; text-align:right; margin: 20px;">
   <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
     <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200"/>
   </a>
