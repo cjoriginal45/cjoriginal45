@@ -94,24 +94,24 @@
   <h2>Algunos proyectos 👨🏻‍💻</h2>
 
   <!-- Proyecto 1 -->
-<td align="center" style="padding: 10px;">
+<td align="center" valign="top" style="padding: 10px;">
         <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
-          <img src="images/SGTPI.png" alt="SGTPI" width="200"/>
+          <img src="images/SGTPI.png" alt="SGTPI" width="200" height="150"/>
         </a>
         <br/>
         <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" height="28"/>
         </a>
       </td>
 
 <!-- Proyecto 2 -->
-<td align="center" style="padding: 10px;">
+   <td align="center" valign="top" style="padding: 10px;">
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
-          <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200"/>
+          <img src="images/DeliciasGourmet.png" alt="Delicias Gourmet" width="200" height="150"/>
         </a>
         <br/>
         <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" height="28"/>
         </a>
       </td>
 
