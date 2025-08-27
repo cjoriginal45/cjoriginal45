@@ -88,7 +88,26 @@
   </a>
 </p>
 <br>
+
 <!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/cjoriginal45/SGTPI-Sistema-Gestor-de-Turnos" target="blank"><img align="center" src="images/SGTPI.png" alt="SGTPI" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/cjoriginal45/DeliciasGourmetG5" target="blank"><img align="center" src="images/DeliciasGourmet.png" alt="Delicias Gourmet" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
 
 
 
